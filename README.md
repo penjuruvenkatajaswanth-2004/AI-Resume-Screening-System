@@ -2,7 +2,9 @@
 <img width="2875" height="909" alt="image" src="https://github.com/user-attachments/assets/bf34991a-936b-473e-bd82-d593226e6122" />
 This project is an intelligent web application designed to automate the process of screening and shortlisting candidates based on a job description. It uses a combination of data parsing, AI skill matching, and ranking algorithms to save time and improve the accuracy of the hiring process.
 
+
 ✨ Features
+
 
 
 📄 Resume Parsing: Automatically extracts key information from PDF and DOCX files, including contact details, skills, education, and experience.
