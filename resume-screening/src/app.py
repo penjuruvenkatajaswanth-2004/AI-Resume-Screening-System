@@ -6,7 +6,8 @@ import numpy as np
 from pathlib import Path
 import os
 from resume_parser import ResumeParser, display_parsed_resume
-from skill_matcher import SkillMatcher, display_job_skills, display_candidate_ranking, display_comparison_table  
+from src.skill_matcher import SkillMatcher, display_job_skills, display_candidates
+
 
 
 
